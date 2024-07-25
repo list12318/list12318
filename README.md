@@ -1,9 +1,9 @@
 <!-- dynamic typing effect 动态打字效果 -->
-<div align="center">
-    <a href="https://juneqiu.gitee.io/blog_build">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=高冷小帅&center=true&size=27" alt="Typing SVG" />
-    </a>
-</div>
+<h1 align="center">
+  <a href="https://github.com/list12318">
+    <img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&weight=900&size=30&pause=2000&color=F4F7CA&background=1D477B&center=true&vCenter=true">
+  </a>
+</h1>
 
 <!-- GitHub 数据统计 -->
 <div align="center">
@@ -22,6 +22,10 @@
  ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
  ![Webpack Badge](https://img.shields.io/badge/Webpack-007ACC?logo=webpack&logoColor=fff&style=flat)
  ![Electron Badge](https://img.shields.io/badge/Electron-9FEAF9?logo=electron&style-flat)
+
+   <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=list12318&theme=vue&bg_color=20232a&hide_border=true" width="100%"/>
    
  </div>
 
