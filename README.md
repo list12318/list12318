@@ -1,7 +1,7 @@
 <!-- dynamic typing effect 动态打字效果 -->
 <h1 align="center">
   <a href="https://github.com/list12318">
-    <img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+高冷小帅....;Nice+to+meet+you!&weight=900&size=30&pause=2000&color=F4F7CA&background=1D477B&center=true&vCenter=true">
+    <img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+李斯特....;Nice+to+meet+you!&weight=900&size=30&pause=2000&color=F4F7CA&background=1D477B&center=true&vCenter=true">
   </a>
 </h1>
 
